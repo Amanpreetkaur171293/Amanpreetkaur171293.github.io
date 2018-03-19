@@ -1,0 +1,32 @@
+html, body {
+	 font-family: sans-serif;
+}
+
+h1{
+	font-size:48px;
+	
+}
+
+h2{
+	font-size:30px;
+	text-align:center;
+	color: orange;
+	font-style:italic;
+	text-shadow: 2px 2px black;
+}
+
+h3{
+	font-size:20px;
+	text-align:center;
+}
+
+
+li{
+	
+	color:orange;
+	
+}
+
+a:hover{
+	color:green;
+}
