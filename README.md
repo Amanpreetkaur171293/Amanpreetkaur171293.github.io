@@ -1,1 +1,0 @@
-# Amanpreetkaur171293.github.io
